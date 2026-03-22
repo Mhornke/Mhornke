@@ -51,8 +51,8 @@ Aqui você vai encontrar:
 ---
 
 ## 🧠 Atualmente estudando
-- APIs REST  
-- TypeScript  
+- Algoritmos e estrutura de dados  
+- Revendo conceitos do TypeScript  
 - Arquitetura de software  
 
 ---
