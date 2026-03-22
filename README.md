@@ -7,7 +7,12 @@
 ---
 
 ## 🚀 Sobre mim
-Sou estudante e desenvolvedor em formação, focado em criar projetos práticos e evoluir constantemente minhas habilidades.
+Sou estudante e desenvolvedor em formação, sempre buscando evoluir através de projetos práticos, estudos e novos desafios.
+
+Aqui você vai encontrar:
+- 📚 Trabalhos da faculdade  
+- 💻 Projetos pessoais  
+- 🧪 Experimentos e estudos  
 
 ---
 
@@ -17,36 +22,22 @@ Sou estudante e desenvolvedor em formação, focado em criar projetos práticos 
 
 ---
 
-## 🐾 Projeto em destaque: Adote.com
+## 🧠 Tecnologias que eu utilizo
 
-Sistema desenvolvido com foco em adoção de animais 🐶🐱, conectando pessoas a pets que precisam de um lar.
-
-### 🔥 Funcionalidades:
-- Cadastro de animais
-- Listagem de pets disponíveis
-- Interface amigável
-- Integração entre front-end e back-end
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ---
 
-### 🌐 Acesse o projeto:
+## 🐾 Projeto em destaque
 
 [![Deploy](https://img.shields.io/badge/ACESSAR_PROJETO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://adotecom.vercel.app/)
 
----
-
-### 📁 Repositório do projeto:
-
 [![GitHub](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mhornke/Projeto-Adotecom)
-
----
-
-## ⚙️ Tecnologias utilizadas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 
 ---
 
@@ -60,9 +51,9 @@ Sistema desenvolvido com foco em adoção de animais 🐶🐱, conectando pessoa
 ---
 
 ## 🧠 Atualmente estudando
-- APIs REST
-- TypeScript
-- Arquitetura de projetos
+- APIs REST  
+- TypeScript  
+- Arquitetura de software  
 
 ---
 
