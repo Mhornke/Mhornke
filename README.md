@@ -39,16 +39,7 @@ Aqui você vai encontrar:
 
 [![GitHub](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mhornke/Projeto-Adotecom)
 
----
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mhornke&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhornke&layout=compact&theme=dark"/>
-</div>
-
----
 
 ## 🧠 Atualmente estudando
 - Algoritmos e estrutura de dados  
